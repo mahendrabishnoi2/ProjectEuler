@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem
+Project Euler #1: Multiples of 3 and 5
+*/
 import java.io.*;
 import java.util.*;
 
