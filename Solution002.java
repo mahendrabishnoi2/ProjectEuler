@@ -6,7 +6,7 @@ Project Euler #2: Even Fibonacci numbers
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Solution002 {
     
     public static void main(String[] args) {
         // create an array which already stores fibonacci numbers

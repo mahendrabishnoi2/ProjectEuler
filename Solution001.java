@@ -5,7 +5,7 @@ Project Euler #1: Multiples of 3 and 5
 import java.io.*;
 import java.util.*;
 
-public class Solution_001 {
+public class Solution001 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
