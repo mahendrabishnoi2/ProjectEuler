@@ -1,5 +1,5 @@
  /*
-https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem
+https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem
 Project Euler #6: Sum square difference
 */
 import java.io.*;
