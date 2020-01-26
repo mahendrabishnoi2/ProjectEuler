@@ -5,7 +5,7 @@ Project Euler #5: Smallest multiple
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Solution005 {
     public static int gcd(int a, int b) {
         if (b == 0) 
             return a;
