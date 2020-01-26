@@ -1,5 +1,5 @@
  /*
-https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem
+https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem
 Project Euler #7: 10001st prime
 */
 import java.io.*;
