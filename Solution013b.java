@@ -5,7 +5,7 @@ Project Euler #13: Large sum
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Solution013b {
 
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
